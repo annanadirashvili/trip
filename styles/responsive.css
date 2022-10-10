@@ -1,0 +1,37 @@
+@media (max-width: 950px) {
+    .grey-div {
+        width: 100%;
+        height: 30vh;
+        background-color: rgb(67, 68, 89);
+        position: absolute;
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        
+    }
+    /* plan-divs */
+    .grey-div div {
+        margin-top: 15px;
+        width: 300px;
+        height: 60vh;
+        background-color: rgba(245, 246, 251, 0.6);
+        position: relative;
+        top: -100%;
+        
+    }
+    .grey-div div img {
+        width: 60px;
+        height: 60px;
+        margin-top: 60px;
+
+        
+    }
+    .div-of-grey-div h3 {
+        font-size: 15px;
+        font-weight: 700;
+        font-family: Snell Roundhand, cursive;
+    }
+    .div-of-grey-div h5{
+        margin-top: 10px;
+    }
+}
