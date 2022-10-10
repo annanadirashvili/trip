@@ -9,6 +9,12 @@
         flex-wrap: wrap;
         
     }
+    .main-plan div img {
+        width: 100%;
+        height: 60vh;
+        margin-bottom: 0px;
+    }
+    
     /* plan-divs */
     .grey-div div {
         margin-top: 15px;
