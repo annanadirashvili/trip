@@ -19,8 +19,7 @@
     .grey-div div {
         margin-top: 15px;
         width: 300px;
-        /* height: 60vh; */
-        height: auto;
+        height: 60vh;
         background-color: rgba(245, 246, 251, 0.6);
         position: relative;
         top: -100%;
